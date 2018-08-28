@@ -3,7 +3,7 @@
 ##### Requirements #####
 - AutoIT 3
 - SciTE4AutoIT
-- CEF (Included in Project's Repository)
+- CEF ([Get it here](http://opensource.spotify.com/cefbuilds/index.html))
 - CEFAu3 (Included in Project's Repository)
 ##### Steps #####
 - Open sidebrowser.au3 with SciTE4Au3 to edit it.
